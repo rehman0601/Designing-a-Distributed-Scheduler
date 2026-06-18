@@ -1,0 +1,8 @@
+# Distributed Scheduler - Dependencies
+# All packages listed below; standard-library modules need no installation.
+
+# Core runtime — no third-party packages required for distributed_scheduler.py
+# (uses only Python standard library: sqlite3, threading, queue, logging, uuid, etc.)
+
+# Development / testing
+pytest>=7.0             # Unit testing (optional)
