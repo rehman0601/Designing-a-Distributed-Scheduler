@@ -60,8 +60,8 @@ pip install -r requirements.txt
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/distributed-scheduler.git
-cd distributed-scheduler
+git clone https://github.com/rehman0601/Designing-a-Distributed-Scheduler.git
+cd Designing-a-Distributed-Scheduler
 ```
 
 ### 2. Verify Python version
@@ -213,12 +213,11 @@ distributed-scheduler/
 
 ## GitHub Repository
 
-[https://github.com/YOUR_USERNAME/distributed-scheduler](https://github.com/YOUR_USERNAME/distributed-scheduler)
+[https://github.com/rehman0601/Designing-a-Distributed-Scheduler](https://github.com/rehman0601/Designing-a-Distributed-Scheduler)
 
 ---
 
 ## Author
 
 **Rehman** — BTech CSE, ITM Skills University  
-Project: Distributed Scheduler Simulation  
-
+Project: Distributed Scheduler Simulation
